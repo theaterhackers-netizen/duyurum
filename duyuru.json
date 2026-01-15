@@ -1,6 +1,6 @@
 {
-    "duyuru":
-    "İstek hesaplarınızı yazmayı unutmayın dc: _mortio_"
-
+    "duyurular": [
+        "İstek hesaplarınızı yazmayı unutmayın dc: _mortio_",
+        "dc: _mortio_"
+    ]
 }
-
